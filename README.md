@@ -78,6 +78,9 @@ This will start both the FastAPI backend server and the Streamlit frontend.
 4. Observe how each module (Perception, Reasoning, Planning, Action) processes the input
 5. View the visualizations to understand the agent's decision-making process
 
+![AgenticAI](https://github.com/user-attachments/assets/61829457-9a0f-4547-a801-206ba7e1a18f)
+
+
 ## Architecture
 
 The application follows a modular architecture:
